@@ -1,0 +1,18 @@
+{
+  "name": "emoji-link-shortener",
+  "private": true,
+  "scripts": {
+    "start": "meteor --settings=settings.json"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.36",
+    "connect-route": "^0.1.5",
+    "meteor-node-stubs": "^0.3.2",
+    "moment": "^2.20.1",
+    "random-unicode-emoji": "^1.0.1",
+    "react": "^16.2.0",
+    "react-addons-pure-render-mixin": "^15.6.2",
+    "react-dom": "^16.2.0",
+    "valid-url": "^1.0.9"
+  }
+}

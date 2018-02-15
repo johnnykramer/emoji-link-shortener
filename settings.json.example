@@ -1,0 +1,6 @@
+{
+  "public": {
+    "domain": "http://your-website-domain.com",
+    "expiredLink": "http://google.com"
+  }
+}
